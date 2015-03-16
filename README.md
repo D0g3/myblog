@@ -1,5 +1,3 @@
-Feel free to fork.
-Please keep the link in the bottom.
-
-The like button is currently for personal use and would not work on any other domain.
-Please delete all the lines between `<!-- BEGIN this would not work on any other domain -->` and `<!-- END this would not work on any other domain -->`
+一切都是新的 
+在Blog中我会分享一些有趣的东西
+且把桃花切一斤
