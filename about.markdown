@@ -13,10 +13,10 @@ who involved in
 
 mail 
 
-> echo srvpqxfbyqfvpdtkbjwt | tr yxwvtsrqpkjfdb zuonmlihgeca@.
+> echo 472354643@qq.com
 
 or follow 
 
-> [@o_lll](http://weibo.com/678199585)
+> [微博](http://weibo.com/678199585)
 
 to reach me
