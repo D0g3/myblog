@@ -1,5 +1,5 @@
 ---
-title: cat
+title: something new
 layout: post
 tags:
   - ricoh-gr
@@ -8,8 +8,12 @@ tags:
 
 ![cat](/media/files/2015/03/16/cat.jpg)
 
-不要指望文能对图我就随便贴一张
+不指望文能对图我就随便贴一张
 
 ---
 
-Pain is inevitable. Suffering is optional.
+我希望Blog是一块能独立思考的领地。
+我希望每一位能独立思考的人都能成为不羁之民。 
+受到他人虐待时有不屈服之心，受到灾恶侵袭时有不受挫折之心； 
+若有不正之事时，不恐惧修正之心；不向豺虎献媚…… 
+我希望每一位能独立思考的人，都能成为王；都能成为统治被称为『自己』这块领土的，独一无二的王。
